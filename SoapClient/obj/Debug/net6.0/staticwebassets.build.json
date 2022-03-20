@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wStQ1KxMMDvfJmwqIGtVwgXLyyjE2AQivDe7yaVMQJc=",
+  "Source": "SoapClient",
+  "BasePath": "_content/SoapClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
